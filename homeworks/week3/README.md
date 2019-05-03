@@ -27,7 +27,7 @@ input: Nick
 output: nICK
 
 input: ,hEllO122
-output: ,HeLLo123
+output: ,HeLLo122
 ```
 
 ## hw3：判斷質數
